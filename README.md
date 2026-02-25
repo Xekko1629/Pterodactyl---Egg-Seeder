@@ -90,6 +90,39 @@ The script follows a 3-step logic for every entry in your `eggs.json`:
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome and greatly appreciated! Here's how you can help improve this project:
+
+### Adding New Eggs
+
+1. **Fork the repository** and create a new branch for your contribution
+2. Add your egg JSON files in the appropriate game folder structure
+3. Update the `eggs.json` file to include your new eggs
+4. Test the import process with your additions
+5. Submit a **Pull Request** with a clear description of what eggs you've added
+
+### Updating for Panel Versions
+
+If you've tested this tool with a newer version of Pterodactyl Panel:
+
+1. Test the script thoroughly with the new panel version
+2. Update the **"Tested Panel Versions"** section in this README
+3. If changes to the code were needed, document them clearly in your PR
+4. Submit a Pull Request with details about the panel version and any modifications made
+
+### General Guidelines
+
+* Follow the existing code style and structure
+* Test your changes before submitting
+* Keep egg JSON files properly formatted
+* Update documentation when adding new features
+* Report bugs by opening an Issue with detailed reproduction steps
+
+Every contribution, whether it's a single egg or a major feature, helps make this tool better for everyone!
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
