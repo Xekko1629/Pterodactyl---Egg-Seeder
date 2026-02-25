@@ -21,6 +21,14 @@ A powerful automation script built with **Puppeteer** to bulk-import game eggs i
 
 ---
 
+## ✅ Tested Panel Versions
+
+This tool has been tested and confirmed working with the following Pterodactyl Panel versions:
+
+* **1.12.1** ✓
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
