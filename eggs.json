@@ -1,0 +1,587 @@
+{
+  "7DaysToDie": [
+    "7_days_to_die/egg-7-days-to-die.json"
+  ],
+  "Archean": [
+    "Archean/egg-archean.json"
+  ],
+  "Aska": [
+    "Aska/egg-aska.json"
+  ],
+  "LeagueSandbox": [
+    "League Sandbox/egg-league-sandbox.json"
+  ],
+  "NaziZombiesPortable": [
+    "Nazi Zombies Portable/egg-nazi-zombies--portable.json"
+  ],
+  "Nightingale": [
+    "Nightingale/egg-nightingale.json"
+  ],
+  "Supertuxkart": [
+    "SuperTuxKart/egg-super-tux-kart.json"
+  ],
+  "AbioticFactor": [
+    "abiotic_factor/egg-abiotic-factor.json"
+  ],
+  "Aloft": [
+    "aloft/egg-aloft.json"
+  ],
+  "AmericasArmy": [
+    "americas_army/proving_grounds/egg-america-s-army--proving-grounds.json"
+  ],
+  "AmongUs": [
+    "among_us/bettercrewlink_server/egg-better-crewlink-server.json",
+    "among_us/impostor_server/egg-among-us--impostor-server.json"
+  ],
+  "ArkSurvivalAscended": [
+    "ark_survival_ascended/egg-ark-survival-ascended.json"
+  ],
+  "ArkSurvivalEvolved": [
+    "ark_survival_evolved/egg-ark--survival-evolved.json"
+  ],
+  "Arma": [
+    "arma/arma3/egg-arma3.json",
+    "arma/arma_reforger/egg-arma-reforger.json"
+  ],
+  "AssettoCorsa": [
+    "assetto_corsa/egg-assetto-corsa--freeroam--a-i.json",
+    "assetto_corsa/egg-assetto-corsa.json"
+  ],
+  "AstroColony": [
+    "astro_colony/egg-astro-colony.json"
+  ],
+  "Astroneer": [
+    "astroneer/egg-astroneer-dedicated-server.json"
+  ],
+  "Automobilista2": [
+    "automobilista2/egg-automobilista2.json"
+  ],
+  "Avorion": [
+    "avorion/egg-avorion.json"
+  ],
+  "BananaShooter": [
+    "banana_shooter/egg-banana-shooter.json"
+  ],
+  "Barotrauma": [
+    "barotrauma/egg-barotrauma.json"
+  ],
+  "BattalionLegacy": [
+    "battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json"
+  ],
+  "Beamng": [
+    "beamng/beammp/egg-beam-m-p-server.json",
+    "beamng/kissmp/egg-kissmp.json"
+  ],
+  "BlackMesa": [
+    "black_mesa/egg-black-mesa.json"
+  ],
+  "Brickadia": [
+    "brickadia/egg-brickadia.json"
+  ],
+  "Citadel": [
+    "citadel/egg-citadel-forged-with-fire.json"
+  ],
+  "Classicube": [
+    "classicube/mcgalaxy/egg-classi-cube--m-g-c.json"
+  ],
+  "CloneHero": [
+    "clone_hero/egg-clone-hero.json"
+  ],
+  "Cod": [
+    "cod/iw4x/egg-iw4x-mw2.json"
+  ],
+  "ColonySurvival": [
+    "colony_survival/egg-colony-survival.json"
+  ],
+  "ConanExiles": [
+    "conan_exiles/egg-conan-exiles.json"
+  ],
+  "Contagion": [
+    "contagion/egg-contagion.json"
+  ],
+  "CoreKeeper": [
+    "core_keeper/egg-core-keeper.json"
+  ],
+  "CounterStrike": [
+    "counter_strike/counter_strike_1.6/egg-counter-strike1-6--vanilla.json",
+    "counter_strike/counter_strike_1.6_rehlds/egg-cs 1.6-rehlds.json",
+    "counter_strike/counter_strike_2/egg-counter--strike2.json",
+    "counter_strike/counter_strike_source/egg-counter--strike--source.json"
+  ],
+  "Craftopia": [
+    "craftopia/egg-craftopia.json"
+  ],
+  "Cryofall": [
+    "cryofall/egg-cryo-fall.json"
+  ],
+  "Cs2D": [
+    "cs2d/egg-c-s2-d.json"
+  ],
+  "Cubeengine": [
+    "cubeengine/assaultcube/egg-assault-cube.json",
+    "cubeengine/cube2/egg-cube2--sauerbraten.json"
+  ],
+  "CubicOdyssey": [
+    "cubic_odyssey/egg-cubic-odyssey.json"
+  ],
+  "Dayz": [
+    "dayz/egg-dayz.json"
+  ],
+  "Ddnet": [
+    "ddnet/egg-d-d-net.json"
+  ],
+  "Ddracenetwork": [
+    "ddracenetwork/egg-d-d-race-network.json"
+  ],
+  "DeadMatter": [
+    "dead_matter/egg-dead-matter.json"
+  ],
+  "DontStarve": [
+    "dont_starve/egg-don-t-starve-together.json"
+  ],
+  "Doom": [
+    "doom/zandronum/egg-zandronum.json"
+  ],
+  "Eco": [
+    "eco/egg-eco.json"
+  ],
+  "Eft": [
+    "eft/egg-stay-in-tarkov.json"
+  ],
+  "Empyrion": [
+    "empyrion/egg-empyrion--galactic-survival.json"
+  ],
+  "Enshrouded": [
+    "enshrouded/egg-enshrouded.json",
+    "enshrouded/enshrouded_server.json"
+  ],
+  "Factorio": [
+    "factorio/clusterio/egg-clusterio.json",
+    "factorio/factorio-modupdate/egg-factorio-modupdate.json",
+    "factorio/factorio/egg-factorio-a-r-m64.json",
+    "factorio/factorio/egg-factorio.json"
+  ],
+  "Fof": [
+    "fof/egg-fof.json"
+  ],
+  "FortresscraftEvolved": [
+    "fortresscraft_evolved/egg-fortresscraft-evolved.json"
+  ],
+  "Foundry": [
+    "foundry/egg-foundry.json"
+  ],
+  "FoundryVtt": [
+    "foundry_vtt/egg-FoundryVTT.json"
+  ],
+  "FrozenFlame": [
+    "frozen_flame/egg-frozen-flame.json"
+  ],
+  "FtlTachyon": [
+    "ftl_tachyon/egg-tachyon.json"
+  ],
+  "Gmod": [
+    "gmod/egg-garry-s-mod.json"
+  ],
+  "GroundBranch": [
+    "ground_branch/egg-ground-branch.json"
+  ],
+  "Gta": [
+    "gta/altv/egg-alt--v.json",
+    "gta/fivem/egg-five-m.json",
+    "gta/gtac/egg-grand-theft-auto-connected.json",
+    "gta/mtasa/egg-multi-theft-auto.json",
+    "gta/openmp/config.json",
+    "gta/openmp/egg-open-m-p.json",
+    "gta/ragecoop/egg-rage-c-o-o-p.json",
+    "gta/ragemp/conf.json",
+    "gta/ragemp/egg-rage--m-p.json",
+    "gta/samp/egg-s-a--m-p.json"
+  ],
+  "HalfLife2Deathmatch": [
+    "half_life_2_deathmatch/egg-half--life2--deathmatch.json"
+  ],
+  "HldsServer": [
+    "hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json",
+    "hlds_server/vanilla/egg-custom-h-l-d-s-engine-game.json"
+  ],
+  "Hogwarp": [
+    "hogwarp/egg-hogwarp.json"
+  ],
+  "Holdfast": [
+    "holdfast/egg-holdfast-na-w.json"
+  ],
+  "Humanitz": [
+    "humanitz/egg-humanit-z.json"
+  ],
+  "Hurtworld": [
+    "hurtworld/egg-hurtworld.json"
+  ],
+  "Hytale": [
+    "hytale/egg-hytale.json"
+  ],
+  "Icarus": [
+    "icarus/egg-icarus--dedicated.json"
+  ],
+  "InsurgencySandstorm": [
+    "insurgency_sandstorm/egg-insurgency--sandstorm.json"
+  ],
+  "Iosoccer": [
+    "iosoccer/eggs-iosoccer.json"
+  ],
+  "JustCause": [
+    "just_cause/just_cause_3/egg-j-c3-m-p.json"
+  ],
+  "KillingFloor2": [
+    "killing_floor_2/egg-killing-floor2.json"
+  ],
+  "Ksp": [
+    "ksp/DMP/egg-k-s-p-d-m-p.json",
+    "ksp/LMP/egg-k-s-p--l-m-p.json"
+  ],
+  "Left4Dead": [
+    "left4dead/egg-left4dead.json"
+  ],
+  "Left4Dead2": [
+    "left4dead_2/egg-left4dead_2.json"
+  ],
+  "Longvinter": [
+    "longvinter/egg-longvinter.json"
+  ],
+  "Losangelescrimes": [
+    "losangelescrimes/egg-l-a-c--online-public-server.json"
+  ],
+  "MidnightGhostHunt": [
+    "midnight_ghost_hunt/egg-midnight-ghost-hunt.json"
+  ],
+  "Mindustry": [
+    "mindustry/egg-mindustry.json"
+  ],
+  "Minecraft": [
+    "minecraft/bedrock/LeviLamina/egg-levi-lamina.json",
+    "minecraft/bedrock/LiteLoader-bedrock/egg-LiteLoader-bedrock.json",
+    "minecraft/bedrock/PowerNukkitX/egg-powernukkitx.json",
+    "minecraft/bedrock/bedrock/egg-vanilla-bedrock-ARM64.json",
+    "minecraft/bedrock/bedrock/egg-vanilla-bedrock.json",
+    "minecraft/bedrock/gomint/egg-go-mint.json",
+    "minecraft/bedrock/nukkit/egg-nukkit.json",
+    "minecraft/bedrock/pocketmine_mp/egg-pocketmine-m-p.json",
+    "minecraft/crossplay/purpur-geysermc-floodgate/egg-purpur-geyser-floodgate.json",
+    "minecraft/java/arclight/egg-arclight.json",
+    "minecraft/java/canvas-mc/egg-canvas-mc.json",
+    "minecraft/java/cuberite/egg-cuberite.json",
+    "minecraft/java/curseforge/egg-curse-forge-generic.json",
+    "minecraft/java/fabric/egg-fabric.json",
+    "minecraft/java/folia/egg-folia.json",
+    "minecraft/java/forge/forge/egg-forge-enhanced.json",
+    "minecraft/java/ftb/egg-ftb-installer.json",
+    "minecraft/java/glowstone/egg-glowstone.json",
+    "minecraft/java/krypton/egg-krypton.json",
+    "minecraft/java/limbo/egg-limbo.json",
+    "minecraft/java/magma/egg-magma.json",
+    "minecraft/java/modrinth/egg-modrinth-generic.json",
+    "minecraft/java/mohist/egg-mohist.json",
+    "minecraft/java/nanolimbo/egg-nano-limbo.json",
+    "minecraft/java/neoforge/egg-neoforge.json",
+    "minecraft/java/paper/egg-paper.json",
+    "minecraft/java/purpur/egg-purpur.json",
+    "minecraft/java/quilt/egg-quilt.json",
+    "minecraft/java/spigot/egg-spigot.json",
+    "minecraft/java/spongeforge/egg-sponge-forge.json",
+    "minecraft/java/spongevanilla/egg-sponge-vanilla.json",
+    "minecraft/java/technic/Tekkit-2/egg-tekkit2.json",
+    "minecraft/java/technic/Tekkit/egg-tekkit.json",
+    "minecraft/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.json",
+    "minecraft/java/technic/blightfall/egg-blightfall.json",
+    "minecraft/java/technic/hexxit/egg-hexxit.json",
+    "minecraft/java/technic/tekkit-classic/egg-tekkit-classic.json",
+    "minecraft/java/technic/tekkit-legends/egg-tekkit-legends.json",
+    "minecraft/java/technic/tekkit-smp/egg-tekkit-smp.json",
+    "minecraft/java/technic/the-1-12-2-pack/egg-the1-12-2-pack.json",
+    "minecraft/java/technic/the-1-7-10-pack/egg-the1-7-10-pack.json",
+    "minecraft/java/vanillacord/egg-vanilla-cord.json",
+    "minecraft/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.json",
+    "minecraft/proxy/bedrock/waterdog_pe/egg-waterdog-pe.json",
+    "minecraft/proxy/java/travertine/egg-travertine.json",
+    "minecraft/proxy/java/velocity/egg-velocity.json",
+    "minecraft/proxy/java/viaaas/egg-v-i-aaa-s.json",
+    "minecraft/proxy/java/waterfall/egg-waterfall.json"
+  ],
+  "Minetest": [
+    "minetest/egg-minetest.json"
+  ],
+  "Modiverse": [
+    "modiverse/ServerConfiguration.json",
+    "modiverse/egg-modiverse.json"
+  ],
+  "Mohaa": [
+    "mohaa/egg-mohaa.json"
+  ],
+  "Mordhau": [
+    "mordhau/egg-mordhau-wine.json",
+    "mordhau/egg-mordhau.json"
+  ],
+  "MountBladeIiBannerlord": [
+    "mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json"
+  ],
+  "MythOfEmpires": [
+    "myth_of_empires/egg-myth-of-empires.json"
+  ],
+  "Necesse": [
+    "necesse/egg-necesse.json"
+  ],
+  "Neosvr": [
+    "neosvr/Config.json",
+    "neosvr/egg-neos-v-r.json"
+  ],
+  "NeverwinterNightsEe": [
+    "neverwinter_nights_ee/egg-neverwinter-nights--enhanced-edition.json"
+  ],
+  "NightOfTheDead": [
+    "night_of_the_dead/egg-night-of-the-dead.json"
+  ],
+  "Nmrih": [
+    "nmrih/egg-nmrih.json"
+  ],
+  "NoLoveLost": [
+    "no_love_lost/egg-no-love-lost.json"
+  ],
+  "NoOneSurvived": [
+    "no_one_survived/egg-no-one-survived.json"
+  ],
+  "NovalifeAmboise": [
+    "novalife_amboise/egg-nova--life--amboise.json"
+  ],
+  "NuclearOption": [
+    "nuclear_option/egg-nuclear-option.json"
+  ],
+  "Onset": [
+    "onset/egg-onset.json"
+  ],
+  "OpenFortress": [
+    "open_fortress/egg-open-fortress.json"
+  ],
+  "Openarena": [
+    "openarena/egg-open-arena.json"
+  ],
+  "Openra": [
+    "openra/openra_dune2000/egg-open-r-a--dune2000.json",
+    "openra/openra_red_alert/egg-open-r-a.json",
+    "openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.json"
+  ],
+  "Openrct2": [
+    "openrct2/egg-openrct2.json"
+  ],
+  "Openttd": [
+    "openttd/egg-open-t-t-d-server.json"
+  ],
+  "OperationHarshDoorstop": [
+    "operation_harsh_doorstop/egg-operation-harsh-doorstop.json"
+  ],
+  "Palworld": [
+    "palworld/egg-palworld-proton.json",
+    "palworld/egg-palworld.json"
+  ],
+  "PathOfTitans": [
+    "path_of_titans/egg-path-of-titans.json"
+  ],
+  "PavlovVr": [
+    "pavlov_vr/egg-pavlov-v-r.json"
+  ],
+  "Pixark": [
+    "pixark/egg-pix-a-r-k.json"
+  ],
+  "PlainsOfPain": [
+    "plains_of_pain/egg-plains-of-pain.json"
+  ],
+  "PortalKnights": [
+    "portal_knights/egg-portal-knights.json"
+  ],
+  "PostScriptum": [
+    "post_scriptum/egg-post-scriptum.json"
+  ],
+  "ProjectZomboid": [
+    "project_zomboid/egg-project-zomboid.json"
+  ],
+  "Puck": [
+    "puck/egg-puck.json"
+  ],
+  "QuakeLive": [
+    "quake_live/egg-quake-live.json"
+  ],
+  "R5Reloaded": [
+    "r5reloaded/egg-r5-reloaded.json"
+  ],
+  "Rdr": [
+    "rdr/redm/egg-red-m.json"
+  ],
+  "Renown": [
+    "renown/egg-renown.json"
+  ],
+  "Resonite": [
+    "resonite/Config.json",
+    "resonite/egg-resonite.json"
+  ],
+  "ReturnToMoria": [
+    "return_to_moria/egg-the-lord-of-the-rings--return-to-moria.json"
+  ],
+  "Rimworld": [
+    "rimworld/open_world/egg-rimworld-open-world.json",
+    "rimworld/together/egg-rimworld-together.json"
+  ],
+  "RisingWorld": [
+    "rising_world/legacy/egg-rising-world-legacy.json",
+    "rising_world/unity/egg-rising-world-unity.json"
+  ],
+  "RiskOfRain2": [
+    "risk_of_rain_2/egg-risk-of-rain2.json"
+  ],
+  "Rust": [
+    "rust/rust_autowipe/egg-rust-autowipe.json",
+    "rust/rust_staging/egg-rust-staging.json"
+  ],
+  "Satisfactory": [
+    "satisfactory/egg-satisfactory.json"
+  ],
+  "Scpsl": [
+    "scpsl/dedicated/egg-scpsl.json",
+    "scpsl/exiled/egg-s-c-p--s-l--exiled.json"
+  ],
+  "Scum": [
+    "scum/egg-scum.json"
+  ],
+  "SmallandSurviveTheWilds": [
+    "smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json"
+  ],
+  "SolaceCrafting": [
+    "solace_crafting/egg-solace-crafting.json"
+  ],
+  "Soldat": [
+    "soldat/egg-soldat.json"
+  ],
+  "Soldat2": [
+    "soldat_2/egg-soldat2.json"
+  ],
+  "SonicRoboBlast2": [
+    "sonic_robo_blast_2/egg-sonic-robo-blast2.json"
+  ],
+  "Sonsoftheforest": [
+    "sonsoftheforest/egg-sons-of-the-forest.json"
+  ],
+  "Soulmask": [
+    "soulmask/egg-soulmask.json"
+  ],
+  "Sourcecoop": [
+    "sourcecoop/egg-source-coop.json"
+  ],
+  "SpaceEngineers": [
+    "space_engineers/default/egg-space-engineers.json",
+    "space_engineers/torch/egg-space-engineers--torch-server.json"
+  ],
+  "Spacestation14": [
+    "spacestation_14/egg-spacestation14.json"
+  ],
+  "Squad": [
+    "squad/egg-squad.json"
+  ],
+  "Starbound": [
+    "starbound/egg-starbound.json"
+  ],
+  "Starmade": [
+    "starmade/egg-starmade.json"
+  ],
+  "Stationeers": [
+    "stationeers/stationeers_bepinex/egg-stationeers--bep-in-ex.json",
+    "stationeers/stationeers_vanilla/egg-stationeers.json"
+  ],
+  "Stormworks": [
+    "stormworks/egg-stormworks--build-and-rescue.json"
+  ],
+  "SubnauticaNitroxMod": [
+    "subnautica_nitrox_mod/egg-subnautica.json"
+  ],
+  "Sunkenland": [
+    "sunkenland/egg-sunkenland.json",
+    "sunkenland/world_files/Worlds/World~11223344-5566-7788-99aa-bbccddeeff00/StartGameConfig.json",
+    "sunkenland/world_files/Worlds/World~11223344-5566-7788-99aa-bbccddeeff00/WorldSetting.json",
+    "sunkenland/world_files/Worlds/World~11223344-5566-7788-99aa-bbccddeeff00/world.json"
+  ],
+  "Svencoop": [
+    "svencoop/egg-sven-co-op.json"
+  ],
+  "Swords NMagicAndStuff": [
+    "swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json"
+  ],
+  "TeamFortress2Classic": [
+    "team_fortress_2_classic/egg-team-fortress-2-classic.json"
+  ],
+  "Teeworlds": [
+    "teeworlds/egg-teeworlds.json"
+  ],
+  "Terraria": [
+    "terraria/tmodloader/egg-t-modloader.json",
+    "terraria/tshock/egg-tshock-legacy.json",
+    "terraria/tshock/egg-tshock.json",
+    "terraria/vanilla/egg-terraria-vanilla.json"
+  ],
+  "TerratechWorlds": [
+    "terratech_worlds/egg-terra-tech-worlds.json"
+  ],
+  "TheForest": [
+    "the_forest/egg-the-forest.json"
+  ],
+  "TheIsle": [
+    "the_isle/evrima/egg-the-isle.json"
+  ],
+  "Thefront": [
+    "thefront/egg-the-front.json"
+  ],
+  "TowerUnite": [
+    "tower_unite/egg-tower-unite.json"
+  ],
+  "Trackmania": [
+    "trackmania/egg-trackmania.json"
+  ],
+  "Truck-Simulator": [
+    "truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json",
+    "truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json"
+  ],
+  "Unturned": [
+    "unturned/egg-unturned.json"
+  ],
+  "Urbanterror": [
+    "urbanterror/egg-urban-terror.json"
+  ],
+  "VRising": [
+    "v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json",
+    "v_rising/v_rising_vanilla/egg-v-rising.json"
+  ],
+  "Valheim": [
+    "valheim/valheim_bepinex/egg-valheim-bep-i-nex.json",
+    "valheim/valheim_plus/egg-valheim-plus-mod.json",
+    "valheim/valheim_vanilla/egg-valheim.json"
+  ],
+  "Vein": [
+    "vein/egg-v-e-i-n.json"
+  ],
+  "Veloren": [
+    "veloren/egg-veloren.json"
+  ],
+  "VintageStory": [
+    "vintage_story/egg-vintage-story.json"
+  ],
+  "VoyagersOfNera": [
+    "voyagers_of_nera/egg-voyagers-of-nera.json"
+  ],
+  "Wine": [
+    "wine/generic/egg-wine-generic.json"
+  ],
+  "WolfensteinEnemyTerritory": [
+    "wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json"
+  ],
+  "WurmUnlimited": [
+    "wurm_unlimited/egg-wurm-unlimited.json"
+  ],
+  "Xonotic": [
+    "xonotic/egg-xonotic.json"
+  ]
+}
