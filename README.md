@@ -25,8 +25,8 @@ A powerful automation script built with **Puppeteer** to bulk-import game eggs i
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/pterodactyl-egg-importer.git](https://github.com/your-username/pterodactyl-egg-importer.git)
-cd pterodactyl-egg-importer
+git clone [https://github.com/Xekko1629/Pterodactyl---Egg-Seeder](https://github.com/Xekko1629/Pterodactyl---Egg-Seeder)
+cd Pterodactyl---Egg-Seeder
 
 ```
 
